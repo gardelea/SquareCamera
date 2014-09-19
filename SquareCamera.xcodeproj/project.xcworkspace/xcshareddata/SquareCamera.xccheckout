@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>097B2CDC-C548-479D-9230-98B5E872D50D</string>
+	<string>038C565E-D727-4057-BB7D-3D7131940B40</string>
 	<key>IDESourceControlProjectName</key>
 	<string>SquareCamera</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F01E3639-8854-48B1-95E7-9E58B6FA72E2</key>
-		<string>ssh://github.com/mikefogg/SquareCamera.git</string>
+		<key>95FC1A8C-E410-4292-ACA1-9AEC7A8C9CA9</key>
+		<string>ssh://github.com/gardelea/SquareCamera.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SquareCamera.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F01E3639-8854-48B1-95E7-9E58B6FA72E2</key>
+		<key>95FC1A8C-E410-4292-ACA1-9AEC7A8C9CA9</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/mikefogg/SquareCamera.git</string>
+	<string>ssh://github.com/gardelea/SquareCamera.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F01E3639-8854-48B1-95E7-9E58B6FA72E2</string>
+	<string>95FC1A8C-E410-4292-ACA1-9AEC7A8C9CA9</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F01E3639-8854-48B1-95E7-9E58B6FA72E2</string>
+			<string>95FC1A8C-E410-4292-ACA1-9AEC7A8C9CA9</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SquareCamera</string>
 		</dict>
